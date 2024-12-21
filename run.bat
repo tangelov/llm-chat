@@ -1,3 +1,3 @@
 call myenv\Scripts\activate.bat
-python program.py
+python tool-test.py
 pause

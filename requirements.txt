@@ -2,3 +2,4 @@ torch
 transformers
 langchain
 langchain_huggingface
+langchain_ollama
